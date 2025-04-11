@@ -1,16 +1,59 @@
-## Hi there 👋
+# 👨‍💻 About Me
+Hey there! I'm Harsh Kumar, a passionate full-stack developer and AI enthusiast from India 🇮🇳. I'm currently working on innovative projects that blend web development with cutting-edge AI tools like LangChain and Gemini.
 
-<!--
-**Harsh-1711/Harsh-1711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💭 Currently Exploring:
+🤖 Large Language Models (LLMs)
 
-Here are some ideas to get you started:
+🧩 LangChain agents & tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Scalable MERN stack architecture
+
+💼 Real-world SaaS development workflows
+
+---
+
+## 💻 Tech Stack
+
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge) 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)  
+![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) 
+
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) 
+![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)  
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![LangChain](https://img.shields.io/badge/-LangChain-000000?logo=langchain&logoColor=white&style=for-the-badge)
+![Gemini](https://img.shields.io/badge/-Gemini-4285F4?logo=google&logoColor=white&style=for-the-badge)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-1711&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/><br/>
+![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harsh-1711&show_icons=true&theme=radical)<br/><br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Harsh-1711&theme=dark&hide_border=false)<br/><br/>
+
+---
+
+## 📬 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshh-dev/)[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/matrii.xo)
+
+
+
+
+*“Learning never exhausts the mind.” — Leonardo da Vinci*</br></br>
+![Profile Views](https://komarev.com/ghpvc/?username=Harsh-1711&color=blue)
