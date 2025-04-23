@@ -44,7 +44,8 @@ Hey there! I'm Harsh Kumar, a passionate full-stack developer and AI enthusiast 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-1711&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/><br/>
 ![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harsh-1711&show_icons=true&theme=radical)<br/><br/>
-[![GitHub Streak](https://streak-stats.demolab.com?user=Harsh-1711&theme=dark&hide_border=false)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Harsh-1711&theme=dark)](https://git.io/streak-stats)
+
 
 ---
 
