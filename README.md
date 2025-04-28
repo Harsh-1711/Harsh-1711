@@ -54,11 +54,8 @@ Hey there! I'm Harsh Kumar, a passionate full-stack developer and AI enthusiast 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshh-dev/)[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/matrii.xo)
 
 
-<p align="center" style="pointer-events: none;">
-		<img src="https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif">
+![GIF](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)
 
-</p>
-<br>
 
 *“Learning never exhausts the mind.” — Leonardo da Vinci*</br></br>
 ![Profile Views](https://komarev.com/ghpvc/?username=Harsh-1711&color=blue)
